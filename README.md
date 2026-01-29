@@ -67,8 +67,6 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=2006-sk&show_icons=true&theme=dark&hide_border=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2006-sk&layout=compact&theme=dark&hide_border=true" />
 
-<img height="180" src="https://streak-stats.demolab.com?user=2006-sk&theme=dark&hide_border=true" />
-
 </div>
 
 ---
