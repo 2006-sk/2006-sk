@@ -49,16 +49,6 @@
 
 ---
 
-##  Featured Projects
-
-> (Click to explore)
-
--  **[LoopLog](https://github.com/2006-sk/LoopLog)** – AI-powered time logger  
--  **[DocuWatch](https://github.com/2006-sk/DocuWatch)** – Web & doc change tracker  
--  **[Shadower](https://github.com/2006-sk/Shadower)** – XP-tracking AI mentor  
--  **[BullionBot](https://github.com/2006-sk/BullionBot)** – Auto gold/silver trader
-
----
 
 ##  GitHub Stats
 
