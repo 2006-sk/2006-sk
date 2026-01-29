@@ -73,6 +73,6 @@
 
 ## Let’s Connect
 
-**LinkedIn:** https://www.linkedin.com/in/shresth-kumar-2006/  
+**LinkedIn:** https://www.linkedin.com/in/shresthkumarkarnani/
 **Portfolio:** https://shresthk.dev  
 **Email:** shresthkumar.karnani@sjsu.edu
