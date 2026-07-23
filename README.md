@@ -10,7 +10,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/shresthkumarkarnani/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://shresthk.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://shresthk.netlify.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=netlify&logoColor=white"/></a>
   <a href="mailto:shresthkumar.karnani@sjsu.edu"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=2006-sk&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
 </p>
@@ -81,7 +81,7 @@
 ## 🤝 Connect
 
 - **LinkedIn** — https://www.linkedin.com/in/shresthkumarkarnani/
-- **Portfolio** — https://shresthk.dev
+- **Portfolio** — https://shresthk.netlify.app
 - **Email** — shresthkumar.karnani@sjsu.edu
 
 <div align="center">
